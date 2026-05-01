@@ -5,8 +5,9 @@ I am a CS Junior at the University of Illinois Chicago, interested in software e
 
 ## 🚀 What I'm Up To
 
-- 💻 Building applications that solve actual problems (coming up this summer)
-- 🤖 Exploring AI/ML with **LangChain** and **TensorFlow**
+- 💻 Build-Ship-Repeat (fire projects coming up this summer)
+- 🤖 Exploring AI/ML and Computer Vision with **LangChain**, **TensorFlow**, and **OpenCV**
+
 
 Check out my fav project: [LaLiga Fantasy](https://github.com/kiet08hogit/LaLiga-Fantasy)
 
