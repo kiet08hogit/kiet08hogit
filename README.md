@@ -11,7 +11,7 @@ I am a CS Junior at the University of Illinois Chicago, interested in software e
 Check out my fav project: [LaLiga Fantasy](https://github.com/kiet08hogit/LaLiga-Fantasy)
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ntkiet-ho/)
 
 # 💻 Tech Stack:
 
