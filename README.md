@@ -5,7 +5,7 @@ I am a CS Junior at the University of Illinois Chicago, interested in software e
 
 ## 🚀 What I'm Up To
 
-- 💻 Build-Ship-Repeat (fire projects coming up this summer)
+- 💻 Build-Ship-Repeat (building [FlamesPorium](https://github.com/kiet08hogit/FlamesPorium))
 - 🤖 Exploring AI/ML and Computer Vision with **LangChain**, **TensorFlow**, and **OpenCV**
 
 
