@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Kiet Ho.
 
-🎓 CS Junior at the University of Illinois Chicago.  
+🎓 CS @ University of Illinois Chicago.  
 ⚙️ Software engineer interested in scalable infra, distributed systems, and AI/ML.  
 💻 Currently building [Orbit](https://github.com/kiet08hogit/Orbit) — *Build-Ship-Repeat*.  
 🌐 Diving deep into distributed systems and cloud infrastructure with AWS.  
