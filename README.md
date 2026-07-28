@@ -2,10 +2,10 @@
 
 🎓 CS @ University of Illinois Chicago.  
 ⚙️ Software engineer interested in scalable infra, distributed systems, and AI/ML.  
-💻 Currently building [Orbit](https://github.com/kiet08hogit/Orbit) — *Build-Ship-Repeat*.  
+💻 Currently building [SyncLab](https://github.com/kiet08hogit/SyncLab) — *Build-Ship-Repeat*.  
 🌐 Diving deep into distributed systems and cloud infrastructure with AWS.  
 🤝 Actively contributing to open-source projects.  
-🌟 Check out my favorite project: [LaLiga Fantasy](https://github.com/kiet08hogit/LaLiga-Fantasy).  
+🌟 Check out my favorite project: [Orbit](https://github.com/kiet08hogit/Orbit).  
 ⛰️ When not coding, I'm working out, running, or hiking.  
 🍣 Fun fact: I love ayce so much 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/ntkiet-ho/).
