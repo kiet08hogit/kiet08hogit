@@ -1,7 +1,7 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { phoArt } from './pho.mjs';
+import { phoArt, phoSize } from './pho.mjs';
 
 const root = fileURLToPath(new URL('..', import.meta.url));
 const read = (name) => readFile(path.join(root, name), 'utf8');
@@ -29,7 +29,7 @@ ${body}
 }
 
 function phoGraphic(theme) {
-  return svgShell(760, 380, profile.heroAlt, phoArt(theme));
+  return svgShell(phoSize.width, phoSize.height, profile.heroAlt, phoArt(theme));
 }
 
 function headingGraphic(label, theme) {

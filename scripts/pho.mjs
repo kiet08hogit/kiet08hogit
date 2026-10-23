@@ -1,8 +1,9 @@
 const W = 126;
 const H = 63;
-const P = 6;
-const OX = (760 - W * P) / 2;
-const OY = (380 - H * P) / 2;
+const P = 4;
+export const phoSize = { width: 760, height: H * P + 36 };
+const OX = (phoSize.width - W * P) / 2;
+const OY = (phoSize.height - H * P) / 2;
 
 const OUTLINE = '#3b2417';
 
