@@ -22,7 +22,6 @@
 </picture>
 
 > cs @ uic, expected 2027\.<br>
-> 1st place, ai track @ mhacks 2026\.
 
 im currently building whatever catches my interest\.
 
