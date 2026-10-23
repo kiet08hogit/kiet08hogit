@@ -1,0 +1,52 @@
+{
+  "name": "kiet ho",
+  "fullName": "nguyen tuan kiet ho",
+  "tagline": "infra, distributed systems, and applied ai.",
+  "heroAlt": "A bowl of pho, drawn in ASCII characters.",
+  "links": [
+    { "label": "portfolio", "url": "https://nguyentuankietho.netlify.app/" },
+    { "label": "github", "url": "https://github.com/kiet08hogit" },
+    { "label": "linkedin", "url": "https://www.linkedin.com/in/ntkiet-ho" },
+    { "label": "x", "url": "https://x.com/hokiet08" },
+    { "label": "email", "url": "mailto:hokiet.nguyen08@gmail.com" }
+  ],
+  "quote": [
+    "cs @ uic, expected 2027.",
+    "1st place, ai track @ mhacks 2026."
+  ],
+  "bio": [
+    "im currently building whatever catches my interest."
+  ],
+  "tech": [
+    "typescript · python · sql",
+    "react · next.js · nestjs · node.js · fastapi",
+    "langchain · claude · openai · rag",
+    "postgresql · redis · docker · aws · azure · prisma"
+  ],
+  "projects": [
+    {
+      "name": "mack",
+      "url": "https://github.com/cnnadozi/Mack",
+      "award": "intelligent ai winner @ mhacks 2026",
+      "description": "a chrome extension that turns a confusing page into large labeled actions and talks you through the next step."
+    },
+    {
+      "name": "orbit",
+      "url": "https://github.com/kiet08hogit/Orbit",
+      "award": "",
+      "description": "held 6.4 ms p95 at 500 virtual users, with redis caching, background workers, and stripe events that only process once."
+    },
+    {
+      "name": "synclab",
+      "url": "https://github.com/kiet08hogit/SyncLab",
+      "award": "",
+      "description": "finds breaking dependency changes and checks the migration in a network-restricted docker sandbox. 76.7% of 60 migrations passed after retries."
+    },
+    {
+      "name": "rocketride",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "award": "open source contributor",
+      "description": "6 merged pull requests on an ai platform with 100+ pipelines, including a google cloud node and an sec edgar check with 26 passing tests."
+    }
+  ]
+}
